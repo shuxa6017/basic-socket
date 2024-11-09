@@ -22,7 +22,7 @@ int main() {
 
 	//print error
 	if (connection_status == -1){
-		printf("error connection to remote socket \n\n");
+		printf("error connection  to remote socket \n\n");
 	}
 
 	//receive data
